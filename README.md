@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science Undergraduate | AI & Full-Stack DevelopeI'm a passionate developer and problem-solver who loves building AI-powered systems, SaaS tools, and full-stack applications that solve real-world problems. I focus on creating scalable, meaningful products in domains like Web, CRM Automation and Social Platforms
+Computer Science and Engineering (Data Science) Undergraduate | AI & Full-Stack Developer | I'm a passionate developer and problem-solver who loves building AI-powered systems, SaaS tools, and full-stack applications that solve real-world problems. I focus on creating scalable, meaningful products in domains like Web, CRM Automation and Social Platforms.
 
 
 ## 🌐 Socials:
